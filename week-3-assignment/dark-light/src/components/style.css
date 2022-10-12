@@ -1,0 +1,23 @@
+.row {
+    text-align: left;
+    margin-left: 50px;
+    margin-right: 300px;
+}
+
+button {
+    background-color: darkgrey;
+    cursor: pointer;
+}
+
+img {
+    margin-top: 100%;
+    margin-left: 100%;
+    margin-right: 100%;
+    margin-bottom: 100%;
+    border-radius: 10px;
+}
+
+header {
+    margin-bottom: 10px;
+
+}
